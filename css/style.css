@@ -1,0 +1,13 @@
+#favImage {
+  width: 100%;
+  height: 380px;
+}
+
+#teamImage {
+  width: 40%;
+  margin: auto;
+}
+
+.btnDisable {
+  display: none;
+}
